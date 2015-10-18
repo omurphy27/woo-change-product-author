@@ -15,9 +15,11 @@ While working on a project there was a situation where I needed to change the au
 
 Adding the functionality is very simple - it involves adding author support to the product post type which can be accomplished by adding the following to your theme's functions.php file: 
 
-```if ( post_type_exists( 'product' ) ) {
+```
+if ( post_type_exists( 'product' ) ) {
 	add_post_type_support( 'product', 'author' );
-}```
+}
+```
 
 However, for users who don't want to touch the functions.php file, I created this simple plugin. Just activate the plugin with WooCommerce also installed and you will be able to change the author of a product as if it were a standard post or page. 
 
@@ -39,7 +41,7 @@ After activating the plugin you will be able to change the author assigned to a 
 
 If you do not see a place to change the author, check the screen options and make sure that 'Author' is checked. View the instructions.jpg screenshot for details. 
 
-** Please note that WooCommerce must be installed and activated for the plugin to work. **
+**Please note that WooCommerce must be installed and activated for the plugin to work.**
 
 ## Changelog ##
 
