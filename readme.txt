@@ -45,7 +45,9 @@ If you do not see a place to change the author, check the screen options and mak
 
 == Screenshots ==
 
-1. This screenshot includes step by step instructions for activating and using the plugin
+1. Where to edit the product
+2. Where to change the author
+3. Make sure the 'author' option is checked in the screen options
 
 == Changelog ==
 
