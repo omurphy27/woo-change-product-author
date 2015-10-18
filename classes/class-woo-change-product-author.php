@@ -81,7 +81,7 @@ class OMCPA_Woo_Change_Product_Author {
 	 *
 	 */
 	function is_notice_dismissed() {
-		if( !empty( get_option( 'omcpa-plugin-notice-dismissed' ) ) ) {
+		if( get_option( 'omcpa-plugin-notice-dismissed' ) ) {
 			return true;
 		}
 		return false;
