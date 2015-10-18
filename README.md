@@ -37,7 +37,7 @@ If you are having trouble, take a look at the [Managing Plugins](http://codex.wo
 
 After activating the plugin you will be able to change the author assigned to a WooCommerce product by editing the product in the WP dashboard.
 
-If you do not see a place to change the author, check the screen options and make sure that 'Author' is checked. 
+If you do not see a place to change the author, check the screen options and make sure that 'Author' is checked. View the instructions.jpg screenshot for details. 
 
 ** Please note that WooCommerce must be installed and activated for the plugin to work. **
 
