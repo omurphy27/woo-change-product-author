@@ -1,4 +1,4 @@
-# WooCommerce Change Product Author 
+# Change Product Author for WooCommerce
 - Requires at least Wordpress: 4.2
 - Tested up to Wordpress: 4.3.1
 - Stable tag: 4.3.1

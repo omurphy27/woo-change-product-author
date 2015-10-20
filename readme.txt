@@ -1,4 +1,4 @@
-=== WooCommerce Change Product Author ===
+=== Change Product Author for WooCommerce ===
 Contributors: omurphy
 Tags: woocommerce, author, product
 Requires at least: 4.2

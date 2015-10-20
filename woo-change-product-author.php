@@ -1,6 +1,6 @@
 <?php 
 /**
- * Plugin Name: WooCommerce Change Product Author
+ * Plugin Name: Change Product Author for WooCommerce
  * Description: Makes it easy to change the author assigned to a WooCommerce product post type
  * Version: 1.0.0
  * Author: Ollie Murphy

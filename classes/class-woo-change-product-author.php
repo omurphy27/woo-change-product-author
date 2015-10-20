@@ -59,7 +59,7 @@ class OMCPA_Woo_Change_Product_Author {
 				$html = sprintf( 
 		    		'%s <strong>%s</strong> %s', 
 		    		__( 'WooCommerce needs to be installed and activated for the', 'woo-change-product-author' ), 
-		    		__( 'WooCommerce Change Product Author plugin', 'woo-change-product-author' ), 
+		    		__( 'Change Product Author for WooCommerce plugin', 'woo-change-product-author' ), 
 		    		__( 'to work', 'woo-change-product-author' )
 		    	); 
 
