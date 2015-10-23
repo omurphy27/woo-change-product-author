@@ -3,15 +3,17 @@ Contributors: omurphy
 Tags: woocommerce, author, product
 Requires at least: 4.2
 Tested up to: 4.3.1
-Stable tag: 4.3.1
+Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
-WC requires at least: 2.2
-WC tested up to: 2.4.7
 
 This makes it easy to change the author assigned to a WooCommerce product post type.
 
 == Description ==
+
+**WooCommerce requires at least: 2.2**
+
+**WooCommerce tested up to: 2.4.7**
 
 While working on a project there was a situation where I needed to change the author assigned to a WooCommerce product. The product author was receiving unwanted notifications when reviews for the product were being left. We did not want to turn the notifications off; we just wanted them to go to a different author or user. Changing the author is easily possible with posts and pages, but the option isn't available by default for WooCommerce products. 
 
@@ -21,7 +23,7 @@ Adding the functionality is very simple - it involves adding author support to t
 	add_post_type_support( 'product', 'author' );
 }`
 
-However, for users who don't want to touch the functions.php file, I created this simple plugin. Just activate the plugin with WooCommerce also installed and you will be able to change the author of a product as if it were a standard post or page. 
+However, for users who don't want to touch the functions.php file, or would prefer a solution that is not restricted to a theme, I created this simple plugin. Just activate the plugin with WooCommerce also installed and you will be able to change the author of a product as if it were a standard post or page. 
 
 == Installation ==
 
